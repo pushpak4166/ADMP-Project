@@ -10,4 +10,4 @@ Download and Install Proteus with 8086 Library
 
 3. Interface sixteen 7-seg displays using 8279 with 8086  to have a blinking display of message "WELCOME TO VNIT'
 
-Deadline: This weekend
+
